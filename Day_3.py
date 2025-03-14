@@ -42,4 +42,3 @@ while True:
     else:
         print("Incorrect input.")
 
-
