@@ -41,4 +41,3 @@ while True:
                 exit()
     else:
         print("Incorrect input.")
-
